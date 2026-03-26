@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/AzzurroTech/atp/internal/handlers"
-	"github.com/AzzurroTech/atp/pkg/storage"
+	"github.com/azzurrotech/atp/internal/handlers"
+	"github.com/azzurrotech/atp/pkg/storage"
 )
 
 func main() {

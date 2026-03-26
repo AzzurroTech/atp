@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/AzzurroTech/atp/pkg/storage"
+	"github.com/azzurrotech/atp/pkg/storage"
 )
 
 type Handler struct {
