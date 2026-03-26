@@ -12,8 +12,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/azzurrotech/ATP/internal/models"
-	"github.com/azzurrotech/ATP/pkg/storage"
+	"github.com/azzurrotech/atp/internal/models"
+	"github.com/azzurrotech/atp/pkg/storage"
 )
 
 type Handler struct {
