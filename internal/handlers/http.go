@@ -12,7 +12,6 @@ import (
 	"strings"
 	"time"
 
-	"github.com/AzzurroTech/atp/internal/models"
 	"github.com/AzzurroTech/atp/pkg/storage"
 )
 
