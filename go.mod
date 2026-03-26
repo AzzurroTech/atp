@@ -1,3 +1,3 @@
-module github.com/AzzurroTech/ATP
+module github.com/azzurrotech/atp
 
-go 1.22
+go 1.21
