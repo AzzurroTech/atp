@@ -3,7 +3,7 @@ package storage
 import (
 	"sync"
 
-	"github.com/azzurrotech/atp/internal/models"
+	"github.com/AzzurroTech/atp/internal/models"
 )
 
 type Store interface {
